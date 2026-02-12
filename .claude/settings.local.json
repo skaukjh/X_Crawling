@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(pip install:*)",
+      "Bash(python -c:*)",
+      "Bash(python:*)",
+      "mcp__playwright__browser_navigate",
+      "mcp__playwright__browser_close",
+      "Bash(dir:*)",
+      "Bash(dir /s /b \"D:\\\\99. Project\\\\Crawler\\\\X_Crawling_2\\\\data\\\\*.json\")",
+      "Bash(playwright install:*)"
+    ]
+  }
+}
